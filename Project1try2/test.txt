@@ -1,0 +1,22 @@
+add tiny
+add zeek
+add steve
+add addison
+add buckley
+display
+set zeek level 2
+set buckley level 2
+set addison race elf
+set steve race elf
+set steve job cleric
+set addison job ranger
+set zeek job cleric
+set zeek mental 2
+set addison physical 4
+set buckley social 3
+display
+search social 3
+search job cleric
+search level 2
+remove tiny
+display
